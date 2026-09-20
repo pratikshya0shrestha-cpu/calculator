@@ -2,7 +2,7 @@
 
 > A modern, glassmorphic scientific and standard calculator web application crafted with precision and rich dynamic aesthetics.
 
-![AuraCalc Banner](https://raw.githubusercontent.com/pratikshya0shrestha-cpu/calculator/main/assets/preview.png)
+![AuraCalc Banner](assets/preview.jpg)
 
 ---
 
